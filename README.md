@@ -36,20 +36,7 @@ npm test
 <img width="1366" height="728" alt="Comparer JSON, XML et Protobuf avec Node js 12_01_2026 00_05_18" src="https://github.com/user-attachments/assets/84efa7d9-3f48-4158-ada3-d540023ac338" />
 
 
-### Exemple de sortie :
 
-```
-JSON - Taille des données: 129 octets
-JSON - Sérialisation: 0.06ms
-JSON - Désérialisation: 0.04ms
-
-XML - Taille des données: 187 octets
-XML - Sérialisation: 1.44ms
-XML - Désérialisation: 5.07ms
-
-Protobuf - Taille des données: 43 octets
-Protobuf - Sérialisation: 12.90ms
-Protobuf - Désérialisation: 0.94ms
 ```
 
 ## 📝 Structure du projet
