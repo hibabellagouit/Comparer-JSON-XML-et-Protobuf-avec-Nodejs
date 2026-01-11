@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+import "employee.proto";
+
+service EmployeeService {
+  rpc GetEmployees(Empty) returns (Employees);
+}
+
+message Empty {}

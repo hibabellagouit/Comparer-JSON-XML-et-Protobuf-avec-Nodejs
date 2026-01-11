@@ -1,0 +1,3 @@
+<root>
+<employee><id>1</id><name>Mohamed Amine</name><salary>29000</salary><email>mohamed.amine@mail.com</email><emp_date>2026-03-01</emp_date><departement>IT</departement></employee><employee><id>2</id><name>Reda</name><salary>35000</salary><email>reda.reda@mail.com</email><emp_date>2019-12-18</emp_date><departement>HR</departement></employee><employee><id>3</id><name>Khalid</name><salary>16900</salary><email>khalid.khalid@mail.com</email><emp_date>2022-05-26</emp_date><departement>Compta</departement></employee>
+</root>
